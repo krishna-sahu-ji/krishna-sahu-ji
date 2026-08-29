@@ -3,6 +3,8 @@
 👋 Hi, I'm Krishna Sahu<br><br>🎓 BCA Student | 💻 Aspiring Full-Stack Developer<br>🌐 Web Development | 🤖 AI & Automation | 🐧 Linux | 🔧 Problem Solving<br><br>💻 Languages & Technologies:<br>• HTML5 • CSS3 • JavaScript • C • C++ • Python • SQL<br>• Git • GitHub • VS Code • Linux<br>• Responsive Design • REST APIs • Database Basics<br><br>🚀 Building modern, responsive & user-friendly web applications<br>🧠 Exploring AI, automation, software development & cybersecurity fundamentals<br>🛠️ Creating practical projects to strengthen my development skills<br>📚 Learning new technologies and improving through hands-on projects<br>🔐 Focused on clean, secure, maintainable & efficient code<br><br>🎯 Goal: Become a professional Full-Stack Developer & AI-focused Software Engineer<br><br>✨ Learn • Build • Debug • Improve • Repeat<br>
 
 
+live demo of my portfolio - https://krishna-sahu-ji.github.io/my-portfolio/
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ytr._.lord) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnasahuhelp@gmail.com) 
 
