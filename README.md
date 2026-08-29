@@ -1,4 +1,4 @@
-<img src="" alt="Krishna Sahu - Developer Banner" width="100%">
+<img src="https://github.com/krishna-sahu-ji/krishna-sahu-ji/blob/main/banner.png" alt="Krishna Sahu - Developer Banner" width="100%">
 # 💫 About Me:
 👋 Hi, I'm Krishna Sahu<br><br>🎓 BCA Student | 💻 Aspiring Full-Stack Developer<br>🌐 Web Development | 🤖 AI & Automation | 🐧 Linux | 🔧 Problem Solving<br><br>💻 Languages & Technologies:<br>• HTML5 • CSS3 • JavaScript • C • C++ • Python • SQL<br>• Git • GitHub • VS Code • Linux<br>• Responsive Design • REST APIs • Database Basics<br><br>🚀 Building modern, responsive & user-friendly web applications<br>🧠 Exploring AI, automation, software development & cybersecurity fundamentals<br>🛠️ Creating practical projects to strengthen my development skills<br>📚 Learning new technologies and improving through hands-on projects<br>🔐 Focused on clean, secure, maintainable & efficient code<br><br>🎯 Goal: Become a professional Full-Stack Developer & AI-focused Software Engineer<br><br>✨ Learn • Build • Debug • Improve • Repeat<br>
 
